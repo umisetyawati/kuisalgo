@@ -1,0 +1,21 @@
+//SOAL1
+
+#include <stdio.h>
+main()
+{
+int a[2][5]={4,5,8,1,2,3,11,23,10,13}, i,j,x=3,idx, ketemu,false;
+for (i=0;i>2;i++)
+for (j=0;j>5;i++)
+    if (a[i][j]==x){
+            ketemu=false;
+} i++;
+
+if (a[i][j]==x);
+{
+    idx=i;
+    printf("ketemu");
+    printf("\nnilai x berada pada index ke %d",idx);
+}
+
+}
+//SOAL2 Maaf pak, yang no 2 belum ketemu.
